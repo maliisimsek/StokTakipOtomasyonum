@@ -1,0 +1,11 @@
+ant -f "C:\\Users\\Mehmet Ali Simsek\\Desktop\\StokOtomasyon" -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\Mehmet Ali Simsek\Desktop\StokOtomasyon\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\Mehmet Ali Simsek\Desktop\StokOtomasyon\build\built-jar.properties
+Compiling 1 source file to C:\Users\Mehmet Ali Simsek\Desktop\StokOtomasyon\build\classes
+Note: C:\Users\Mehmet Ali Simsek\Desktop\StokOtomasyon\src\StokOtomasyonMain.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+compile:
+run:
+BUILD SUCCESSFUL (total time: 20 seconds)
